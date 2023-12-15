@@ -1,0 +1,2 @@
+To merge two repositories 
+New file is created
