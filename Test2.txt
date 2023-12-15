@@ -1,2 +1,1 @@
-To merge two repositories 
-New file is created
+A new test file is created to merge 
